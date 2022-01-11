@@ -9,3 +9,6 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
   <br>use `eslint [file]` for every javascript code
+  * [Day 2]
+  <br> use console.log("arg:", arg) every time for verify every part of the code
+  <br> create plan without any code syntax (// in commands) and then create code
