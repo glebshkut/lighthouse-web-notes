@@ -8,4 +8,4 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
 
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
-  use `eslint [file]` for every javascript code
+  <br>use `eslint [file]` for every javascript code
