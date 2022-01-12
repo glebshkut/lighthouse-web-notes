@@ -12,3 +12,5 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
   * [Day 2]
   <br> use console.log("arg:", arg) every time for verify every part of the code
   <br> create plan without any code syntax (// in commands) and then create code
+  * [Day 3]
+  <br> object[key(as a variable)]; object ["name"(as a string)]; object.name (as a string, but without double quotes)
