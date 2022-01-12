@@ -14,3 +14,4 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
   <br> create plan without any code syntax (// in commands) and then create code
   * [Day 3]
   <br> object[key(as a variable)]; object ["name"(as a string)]; object.name (as a string, but without double quotes)
+  <br> this. is calling this object
