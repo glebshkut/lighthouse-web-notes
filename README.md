@@ -17,3 +17,6 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
     - `this.` is calling this object
     - Метод `Object.keys()` возвращает массив из собственных перечисляемых свойств переданного объекта, в том же порядке, в котором они бы обходились циклом `for...in`
     - Create separate functions as often as possible
+  * [Day 4
+    - Callback function - function `func` pushed into another function `function callIt = func => {}` as an argument and then was called, by using () to it`func()`
+    - Anonymous function - callback function, which is not gonna be declared anywhere, just passed in the func itself `findWaldo(["Alice", "Bob", "Waldo", "Winston"], function(index) {console.log("Waldo is located at:", index);});`
