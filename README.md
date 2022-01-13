@@ -22,4 +22,4 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
     - Callback function - function `func` pushed into another function `function callIt = func => {}` as an argument and then was called, by using () to it`func()`
     - Anonymous function - callback function, which is not gonna be declared anywhere, just passed in the func itself `findWaldo(["Alice", "Bob", "Waldo", "Winston"], function(index) {console.log("Waldo is located at:", index);});`
     - <b> `func` which we are passing to our `function` as a parameter is the same as our `action` variable inside `function` function </b>
-    - `.filter` return element of array if callback function returns true, ie: `const evens = numbers.filter(function(num) {return num % 2 === 0;});`
+    - `.filter` return element of array if callback function returns true, ie: `const evens = arrayOfNumbers.filter(function(num) {return num % 2 === 0;});`
