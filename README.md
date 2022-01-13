@@ -16,3 +16,4 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
     - `object[key(as a variable)]`; `object ["name"(as a string)]`; `object.name` (as a string, but without double quotes)
     - `this.` is calling this object
     - Метод `Object.keys()` возвращает массив из собственных перечисляемых свойств переданного объекта, в том же порядке, в котором они бы обходились циклом `for...in`
+    - Create separate functions as often as possible
