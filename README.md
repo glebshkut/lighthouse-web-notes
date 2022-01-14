@@ -24,4 +24,7 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
     - <b> `func` which we are passing to our `function` as a parameter is the same as our `action` variable inside `function` function </b>
     - `.filter` return element of array if callback function returns true, ie: `const evens = arrayOfNumbers.filter(function(num) {return num % 2 === 0;});`
     - `numbers.sort((a,b) => a - b)` function is placing `b` first, in case `a - b < 0`
-    - closure functions - когда функцию(1) (вызванную) присваивают другой функции(2), и вызывают эту функцию(2), то она должна вернуть функцию, передав ей параметр, и потом та функция уже вернет результат <b> Пробуй представлять фкнкцию в другом виде - к примеру: анонимную в виде обычной, в виде референса </b>
+    - closure functions - когда функцию(1) (вызванную) присваивают другой функции(2), и вызывают эту функцию(2), то она должна вернуть функцию, передав ей параметр, и потом та функция уже вернет результат <b> Пробуй представлять фyнкцию в другом виде - к примеру: анонимную в виде обычной, в виде референса </b>
+   * [Day 5](/Week_1/Day_5)
+     - explain your code to the animated duck, while doing this u can find the solution
+
