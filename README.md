@@ -27,4 +27,21 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
     - closure functions - когда функцию(1) (вызванную) присваивают другой функции(2), и вызывают эту функцию(2), то она должна вернуть функцию, передав ей параметр, и потом та функция уже вернет результат <b> Пробуй представлять фyнкцию в другом виде - к примеру: анонимную в виде обычной, в виде референса </b>
    * [Day 5](/Week_1/Day_5)
      - explain your code to the animated duck, while doing this u can find the solution
+     - Before you call yourself stuck, ask yourself the following questions:
+
+Have I...
+
+...pseudo-coded the solution?
+
+...googled the error message I am getting?
+
+...actually READ the error message?
+
+...double-checked my syntax?
+
+...linted my code?
+
+...pair programmed or gotten a peer to code review?
+
+...rubber-ducked the problem?
 
