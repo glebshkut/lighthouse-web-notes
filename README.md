@@ -53,5 +53,6 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
 ...pair programmed or gotten a peer to code review?
 
 ...rubber-ducked the problem?`
-
+ * [Day 6](/Week_1/Day_6)
+     - `npm install mocha chai --save-dev` is used to create mocha and chai for unit testing
 
