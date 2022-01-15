@@ -28,13 +28,13 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
    * [Day 5](/Week_1/Day_5)
      - `this.` is used to get access to current object property and use it for function inside this objects for example..
      - `Object.assign(obj[key], value)` - assign a value in the object
-     - `recursion` is when you're doing almost infinitive function: function sumToOne(n) {
+     - `recursion` is when you're doing almost infinitive function: ```function sumToOne(n) {
         if (n === 1) {
          return 1;
         }
         return n + sumToOne(n-1);
         }
-       console.log(sumToOne(4));
+       console.log(sumToOne(4));```
      - explain your code to the animated duck, while doing this u can find the solution
      - Before you call yourself stuck, ask yourself the following questions:
 
