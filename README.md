@@ -29,7 +29,7 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
      - explain your code to the animated duck, while doing this u can find the solution
      - Before you call yourself stuck, ask yourself the following questions:
 
-Have I...
+`Have I...
 
 ...pseudo-coded the solution?
 
@@ -43,5 +43,6 @@ Have I...
 
 ...pair programmed or gotten a peer to code review?
 
-...rubber-ducked the problem?
+...rubber-ducked the problem?`
+- `this.` is used to get access to current object property and use it for function inside this objects for example..
 
