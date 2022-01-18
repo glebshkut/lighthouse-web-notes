@@ -80,3 +80,4 @@ rl.question('What do you think of Node.js? ', (answer) => {
   rl.close();
 });
 ```
+- <br>functions are waiting until other functions will finish their work</br>
