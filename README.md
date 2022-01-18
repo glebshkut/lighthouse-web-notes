@@ -64,3 +64,5 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
   * [Day_2](/Week_2/Day_2)
     - `process.stdout.write` the same as console.log, but without a new line
     - `setTimeout(() => {console.log(word)}, time);` - timer for some amount of time
+    - ![image](https://user-images.githubusercontent.com/56300084/149991170-64342208-ecf5-4487-8bc6-a17e43b59b7c.png)
+
