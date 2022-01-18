@@ -66,4 +66,16 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
     - `setTimeout(() => {console.log(word)}, time);` - timer for some amount of time
     - ![image](https://user-images.githubusercontent.com/56300084/149991170-64342208-ecf5-4487-8bc6-a17e43b59b7c.png)
     - The `on` function is a very common method name for registering callbacks to handle events.
+    - ```cjs
+const readline = require('readline');
+const { stdin: input, stdout: output } = require('process');
 
+const rl = readline.createInterface({ input, output });
+
+rl.question('What do you think of Node.js? ', (answer) => {
+  // TODO: Log the answer in a database
+  console.log(`Thank you for your valuable feedback: ${answer}`);
+
+  rl.close();
+});
+```
