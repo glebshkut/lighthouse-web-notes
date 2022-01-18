@@ -6,7 +6,7 @@ This repository contains all of the notes taken by Gleb Shkut for the Lighthouse
 
 taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://www.lighthouselabs.ca/)
 
-* [Week 1](/Week_1)
+## [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
     - use `eslint [file]` for every javascript code
   * [Day 2](/Week_1/Day_2)
@@ -55,7 +55,7 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
 ...rubber-ducked the problem?`
  * [Day 6](/Week_1/Day_6)
      - `npm install mocha chai --save-dev` is used to create mocha and chai for unit testing
- [Week 2](/Week_2)
+## [Week 2](/Week_2)
   * [Day 1](/Week_2/Day_1)
     - `module.exports.myFunc = myFunc;` - can create several functions by using keys. or as an array or object
     - `const myFunc = require('./myFunc');`
