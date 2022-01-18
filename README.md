@@ -55,4 +55,9 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
 ...rubber-ducked the problem?`
  * [Day 6](/Week_1/Day_6)
      - `npm install mocha chai --save-dev` is used to create mocha and chai for unit testing
-
+* [Week 2](/Week_2)
+  * [Day 1](/Week_2/Day_1)
+    - `module.exports.myFunc = myFunc;` - can create several functions by using keys. or as an array or object
+    - `const myFunc = require('./myFunc');`
+    - `.gitignore` for ignoring some files and not sending them ig git repository
+    - `const assert = require('chai').assert`
