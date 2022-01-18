@@ -65,4 +65,5 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
     - `process.stdout.write` the same as console.log, but without a new line
     - `setTimeout(() => {console.log(word)}, time);` - timer for some amount of time
     - ![image](https://user-images.githubusercontent.com/56300084/149991170-64342208-ecf5-4487-8bc6-a17e43b59b7c.png)
+    - The on function is a very common method name for registering callbacks to handle events.
 
