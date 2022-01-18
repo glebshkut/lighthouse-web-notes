@@ -68,12 +68,13 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
     - The `on` function is a very common method name for registering callbacks to handle events.
 ```cjs
 const readline = require('readline');
-const { stdin: input, stdout: output } = require('process');
 
-const rl = readline.createInterface({ input, output });
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
 
 rl.question('What do you think of Node.js? ', (answer) => {
-  // TODO: Log the answer in a database
   console.log(`Thank you for your valuable feedback: ${answer}`);
 
   rl.close();
