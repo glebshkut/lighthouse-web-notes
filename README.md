@@ -61,3 +61,6 @@ taken by [Gleb](https://github.com/JoelCodes) for the [Lighthouse Labs](https://
     - `const myFunc = require('./myFunc');`
     - `.gitignore` for ignoring some files and not sending them ig git repository
     - `const assert = require('chai').assert`
+  * [Day_2](/Week_2/Day_2)
+    - `process.stdout.write` the same as console.log, but without a new line
+    - `setTimeout(() => {console.log(word)}, time);` - timer for some amount of time
