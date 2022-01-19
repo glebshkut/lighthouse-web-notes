@@ -81,3 +81,9 @@ rl.question('What do you think of Node.js? ', (answer) => {
 });
 ```
 - <br>functions are waiting until other functions will finish their work</br>
+* [Day_3](/Week_2/Day_2)
+  - `if (key === '\u0077') {
+    client.write("Move: up"); // w
+    // process.exit();
+  }`
+  - 
