@@ -85,4 +85,4 @@ rl.question('What do you think of Node.js? ', (answer) => {
   - ```cjs if (key === '\u0077') {
     client.write("Move: up"); // w
     // process.exit();
-  - 
+  - ```server.on('connection', (client) => {});```
