@@ -86,3 +86,10 @@ rl.question('What do you think of Node.js? ', (answer) => {
     client.write("Move: up"); // w
     // process.exit();
   - ```server.on('connection', (client) => {});```
+* [Day_5](/Week_2/Day_5)
+   - `.bind(obj)` is used if function was called out of its scope and bind will simulate the required object
+   - `class Person` - creates a class
+   - `class Student extends Person` - creates inhanced class
+   - `super.method()` - uses method of super class
+   - `get name() {}` - getter of the name
+   - `set name(name) {}` - setter of the name
