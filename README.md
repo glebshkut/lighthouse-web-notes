@@ -93,3 +93,5 @@ rl.question('What do you think of Node.js? ', (answer) => {
    - `super.method()` - uses method of super class
    - `get name() {}` - getter of the name
    - `set name(name) {}` - setter of the name
+* [Day_1](/Week_3/Day_1)
+   - `res.render('filename', templateObject)` renders an html format using variables from template object
