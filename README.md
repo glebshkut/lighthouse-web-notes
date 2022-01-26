@@ -95,3 +95,8 @@ rl.question('What do you think of Node.js? ', (answer) => {
    - `set name(name) {}` - setter of the name
 * [Day_1](/Week_3/Day_1)
    - `res.render('filename', templateObject)` renders an html format using variables from template object
+* [Day_2](/Week_3/Day_2)
+   - `res.redirect("url")` - redirects to url
+   - `res.cookie('username', req.body.username)` - creates username cookie using parameters from request body
+   - `req.cookies['username']` - looking for a particular cookie
+   - use `<form class='form-inline' method="post" action="/login"></form>` to make a form inline 
