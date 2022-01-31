@@ -136,3 +136,11 @@ rl.question('What do you think of Node.js? ', (answer) => {
 - `center`
 - `space-between`
 - `space-around`
+- ALIGN-self:
+- `flex-start`
+- `flex-end`
+- `center`
+- `stretch`
+- `baseline`
+- `FLEX-grow:` - increases amount of space one child takes
+- `FLEX-shrink` - as value bigger, as smalled child becomes
