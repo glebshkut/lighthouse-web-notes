@@ -102,7 +102,7 @@ rl.question('What do you think of Node.js? ', (answer) => {
    - use `<form class='form-inline' method="post" action="/login"></form>` to make a form inline 
 *** Week 3 ***
 * [Day_1] (/Week_4/Day_1) 
-```.parent {
+```.parent{
   display: flex;
   flex-direction: column;
 }```
