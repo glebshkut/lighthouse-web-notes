@@ -105,6 +105,7 @@ rl.question('What do you think of Node.js? ', (answer) => {
 ```.parent{
   display: flex;
   flex-direction: column;
-}```
+}
+```
 - `justify-content:` - on main axis
 - `align-items:` - on cross axis
