@@ -100,3 +100,11 @@ rl.question('What do you think of Node.js? ', (answer) => {
    - `res.cookie('username', req.body.username)` - creates username cookie using parameters from request body
    - `req.cookies['username']` - looking for a particular cookie
    - use `<form class='form-inline' method="post" action="/login"></form>` to make a form inline 
+*** Week 3 ***
+* [Day_1] (/Week_4/Day_1) 
+```.parent {
+  display: flex;
+  flex-direction: column;
+}```
+- `justify-content:` - on main axis
+- `align-items:` - on cross axis
