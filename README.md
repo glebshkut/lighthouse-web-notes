@@ -109,3 +109,5 @@ rl.question('What do you think of Node.js? ', (answer) => {
 ```
 - `justify-content:` - on main axis
 - `align-items:` - on cross axis
+- order, which controls the order elements appear in without changing your HTML (its default value is 0)
+- flex-grow, dictates how much space a flex item should take up
