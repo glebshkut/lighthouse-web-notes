@@ -125,4 +125,14 @@ rl.question('What do you think of Node.js? ', (answer) => {
 - `flex-start`
 - `flex-end`
 - `center`
-- 
+- FLEX-wrap:
+- `flex-wrap: nowrap;`
+- `flex-wrap: wrap;`
+- `flex-wrap: wrap-reverse;`
+- ALIGN-content:
+- `stretch`
+- `flex-start`
+- `flex-end`
+- `center`
+- `space-between`
+- `space-around`
