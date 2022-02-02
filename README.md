@@ -145,3 +145,6 @@ rl.question('What do you think of Node.js? ', (answer) => {
 - `baseline`
 - `FLEX-grow:` - increases amount of space one child takes
 - `FLEX-shrink` - as value bigger, as smalled child becomes
+
+Day 3
+- `div > span` - accesing direct child
