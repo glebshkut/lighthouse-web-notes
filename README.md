@@ -148,3 +148,14 @@ rl.question('What do you think of Node.js? ', (answer) => {
 
 Day 3
 - `div > span` - accesing direct child
+
+
+REACT NOTES:
+React rules:
+1. All tags must be closed. There are two ways to close a tag.
+
+```Use two tags (an open tag and a close tag - as with <div>...</div> below).
+Use one self-closing tag (as with <Album /> below).```
+2. A child tag must close before its parent. We are creating a tree structure. So the last one to open is the next one to close.
+3. All JSX expressions must result in one root level element. A function can only return one value. A component is defined using a JavaScript function so the same rules apply.
+4. No HTML comments.
