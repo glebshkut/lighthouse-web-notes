@@ -155,9 +155,21 @@ React rules:
 1. All tags must be closed. There are two ways to close a tag.
 
 ```Use two tags (an open tag and a close tag - as with <div>...</div> below).
-Use one self-closing tag (as with <Album /> below).```
+Use one self-closing tag (as with <Album /> below).
 2. A child tag must close before its parent. We are creating a tree structure. So the last one to open is the next one to close.
 3. All JSX expressions must result in one root level element. A function can only return one value. A component is defined using a JavaScript function so the same rules apply.
 4. No HTML comments.
+```
 
 React listens for 3 types of events: onClick, onChange, and onSubmit
+
+
+GITHUB tips:
+- git commit -am "comment" <= same as git add. and then git commit -m
+- git revert commit_id <= goes back to the previous commit
+- git stash (save *id*) - save changes for later
+- git stash pop - for one
+- git stach list - list of stashes
+- git stash apply *index* - for applying specific one
+- git branch -M main - change name of master branch
+- git checkout - - go to the previous branch
