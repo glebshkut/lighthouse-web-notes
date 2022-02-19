@@ -159,3 +159,5 @@ Use one self-closing tag (as with <Album /> below).```
 2. A child tag must close before its parent. We are creating a tree structure. So the last one to open is the next one to close.
 3. All JSX expressions must result in one root level element. A function can only return one value. A component is defined using a JavaScript function so the same rules apply.
 4. No HTML comments.
+
+React listens for 3 types of events: onClick, onChange, and onSubmit
